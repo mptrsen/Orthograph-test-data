@@ -4,7 +4,6 @@ Test data for the [Orthograph orthology prediction pipeline](https://github.com/
 
 * Ortholog set database
 * Transcriptome subset of *Orussus abietinus* from the [1KITE project](http://1kite.org) ([Misof et al. 2014](http://science.sciencemag.org/content/346/6210/763.abstract))
-* Orthograph configuration file
 
 # Literature cited
 
